@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -Wall -Wextra -O3  -shared -Wl,-soname,libmy_math.so -o libmy_math.so CMakeFiles/my_math.dir/src/main.cpp.o CMakeFiles/my_math.dir/src/mymath.cpp.o 

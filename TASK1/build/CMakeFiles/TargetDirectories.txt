@@ -1,3 +1,0 @@
-/home/hamna/Desktop/myproject/C-TASKS/build/CMakeFiles/rebuild_cache.dir
-/home/hamna/Desktop/myproject/C-TASKS/build/CMakeFiles/edit_cache.dir
-/home/hamna/Desktop/myproject/C-TASKS/build/CMakeFiles/output.dir

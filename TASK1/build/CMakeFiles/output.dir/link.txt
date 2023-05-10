@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wextra -O3  -rdynamic CMakeFiles/output.dir/newmain.cpp.o  -o output   -L/home/hamna/Desktop/myproject/C-TASKS/build  -Wl,-rpath,/home/hamna/Desktop/myproject/C-TASKS/build -lmy_math 
