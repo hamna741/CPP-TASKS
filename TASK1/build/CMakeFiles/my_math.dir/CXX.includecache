@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/mymath.h
+
+/home/hamna/Desktop/myproject/C-TASKS/src/main.cpp
+mymath.h
+/home/hamna/Desktop/myproject/C-TASKS/src/mymath.h
+iostream
+-
+time.h
+-
+
+/home/hamna/Desktop/myproject/C-TASKS/src/mymath.cpp
+mymath.h
+/home/hamna/Desktop/myproject/C-TASKS/src/mymath.h
+
