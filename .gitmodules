@@ -1,3 +1,3 @@
-[submodule "TASK2/boost"]
+[submodule "boost"]
 	path = TASK2/boost
-	url = https://github.com/boostorg/boost.git
+	url = https://github.com/boostorg/boost
