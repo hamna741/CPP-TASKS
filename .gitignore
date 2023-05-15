@@ -1,5 +1,7 @@
 .vscode
+boost
 CMakeFiles/
 build/
 !*.so
 !Makefile
+benchmark
